@@ -1,6 +1,11 @@
 {
   "item.caelum.platinum_ingot": "Platinum ingot",
   "item.caelum.silver_ingot": "Silver ingot",
+  "block.caelum.silex": "Silex",
+  "block.caelum.polished_silex": "Polished silex",
+  "block.caelum.silex_cobblestone": "Silex cobblestone",
+  "block.caelum.silex_platinum_ore": "Silex platinum ore",
+  "block.caelum.silex_silver_ore": "Silex silver ore",
 
   "itemGroup.caelumtab": "Caelum"
 }
