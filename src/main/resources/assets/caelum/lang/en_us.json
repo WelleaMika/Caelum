@@ -1,9 +1,15 @@
 {
   "item.caelum.platinum_ingot": "Platinum ingot",
   "item.caelum.silver_ingot": "Silver ingot",
+  "item.caelum.platinum_nugget": "Platinum nugget",
+  "item.caelum.silver_nugget": "Silver nugget",
+  "item.caelum.raw_platinum": "Raw platinum",
+  "item.caelum.raw_silver": "Raw silver",
   "block.caelum.silex": "Silex",
   "block.caelum.polished_silex": "Polished silex",
   "block.caelum.silex_cobblestone": "Silex cobblestone",
+  "block.caelum.platinum_block": "Platinum block",
+  "block.caelum.silver_block": "Silver block",
   "block.caelum.silex_platinum_ore": "Silex platinum ore",
   "block.caelum.silex_silver_ore": "Silex silver ore",
 

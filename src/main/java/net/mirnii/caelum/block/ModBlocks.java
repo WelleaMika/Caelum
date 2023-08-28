@@ -35,6 +35,14 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()),
             ModCreativeModeTab.CAELUM_TAB);
 
+    public static final RegistryObject<Block> PLATINUM_BLOCK = registerBlock("platinum_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()),
+            ModCreativeModeTab.CAELUM_TAB);
+
+    public static final RegistryObject<Block> SILVER_BLOCK = registerBlock("silver_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()),
+            ModCreativeModeTab.CAELUM_TAB);
+
     public static final RegistryObject<Block> SILEX_PLATINUM_ORE = registerBlock("silex_platinum_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
             UniformInt.of(3,7)),
