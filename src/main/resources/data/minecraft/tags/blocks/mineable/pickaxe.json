@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "caelum:platinum_block",
+    "caelum:silver_block",
+    "caelum:silex",
+    "caelum:polished_silex",
+    "caelum:silex_cobblestone",
+    "caelum:silex_platinum_ore",
+    "caelum:silex_silver_ore"
+  ]
+}

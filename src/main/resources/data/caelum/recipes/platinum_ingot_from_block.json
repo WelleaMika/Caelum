@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "caelum:platinum_block"
+    }
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "item": "caelum:platinum_ingot",
+    "count": 9
+  },
+  "show_notification": true
+}

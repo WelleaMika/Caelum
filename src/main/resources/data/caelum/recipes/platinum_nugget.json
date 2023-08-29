@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "caelum:platinum_ingot"
+    }
+  },
+  "pattern": [
+    "#"
+  ],
+  "result": {
+    "item": "caelum:platinum_nugget",
+    "count": 9
+  },
+  "show_notification": true
+}
