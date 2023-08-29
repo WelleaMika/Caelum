@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "platinum_ingot",
+  "ingredient": {
+    "item": "caelum:raw_platinum"
+  },
+  "result": "caelum:platinum_ingot"
+}

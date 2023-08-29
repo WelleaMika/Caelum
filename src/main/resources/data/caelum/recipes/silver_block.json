@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "caelum:silver_nugget"
+      "item": "caelum:silver_ingot"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "###"
   ],
   "result": {
-    "item": "caelum:silver_ingot"
+    "item": "caelum:silver_block"
   },
   "show_notification": true
 }
